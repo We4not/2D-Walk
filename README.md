@@ -9,4 +9,4 @@ This is a repository where i try my C programming skills. It's just a 2D walk ga
 `ESC` - Exit from game
 
 # Gameplay
-![icon](https://github.com/We4not/2D-Walk/blob/main/img/screenshot1.png?raw=true)
+![screenshot1](https://github.com/We4not/2D-Walk/assets/150752474/ea211488-7921-4a2c-998c-c2f6161b618c)
