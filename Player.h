@@ -6,7 +6,9 @@ struct Player {
     int y;
     char symbol;
 };
-
+/*
+void InitPlayer();
+*/
 void drawPlayerOnMap(struct Player Player, char mas[10][21]);
 
 #endif
