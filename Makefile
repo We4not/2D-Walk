@@ -1,7 +1,7 @@
-COMPILER = gcc
-FOLDEROBJ = obj
-FOLDERBIN = bin
-EXECUTABLEFILE = Program.exe
+COMPILER = gcc # compiler
+FOLDEROBJ = obj # folder objects file
+FOLDERBIN = bin # folder executable file
+EXECUTABLEFILE = Program.exe # name file executable
 
 all: Program
 
